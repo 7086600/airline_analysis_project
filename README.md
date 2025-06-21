@@ -2,7 +2,7 @@
 
 In this project, we need to know the ins and outs of airline prices for travel agency clients. We want to make sure that we can find the best deal for our clients and help them to understand how airline prices change based on different factors.
 
-Based on a look into one of the airline. The data includeы:
+Based on a look into one of the airline. The data includes:
 
 * **miles**: miles traveled through the flight
 * **passengers**: number of passengers on the flight
